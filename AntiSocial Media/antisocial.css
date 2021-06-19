@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+button {
+    padding: 2em;
+    background-color: black;
+    border: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    margin: 1em;
+}
+
+.active {
+    color: purple;
+}
+
+#antiimage {
+    position: absolute;
+    width: 13.5%;
+    height: 25%;
+    margin-left: 3.5em;
+}
+
+.social {
+    position: absolute;
+    left: 26em;
+    top: 2.5em;
+    
+}
+
+#link1 {
+    position: absolute;
+    top: 2em;
+    font-size: 3em;
+}
+
+#link1:hover {
+    color: purple;
+}
+
+#link2 {
+    position: absolute;
+    top: 4em;
+    font-size: 3em;
+}
+
+#link2:hover {
+    color: purple;
+}
+
+#link3 {
+    position: absolute;
+    top: 6em;
+    font-size: 3em;
+}
+
+#link3:hover {
+    color: purple;
+}

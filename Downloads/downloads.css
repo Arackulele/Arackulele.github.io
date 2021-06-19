@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+
+button {
+    padding: 2em;
+    background-color: black;
+    border: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    margin: 1em;
+}
+
+.active {
+    color: purple;
+}
+
+.downloads {
+    position: absolute;
+    top: 5em;
+    left: 3em;
+    right: 10em;
+}
+
+#link1 {
+    position: absolute;
+    top: 2em;
+    font-size: 3em;
+}
+
+#link1:hover {
+    color: purple;
+}
+
+#link2 {
+    position: absolute;
+    top: 4em;
+    font-size: 3em;
+}
+
+#link2:hover {
+    color: purple;
+}
+
+#link3 {
+    position: absolute;
+    top: 6em;
+    font-size: 3em;
+}
+
+#link3:hover {
+    color: purple;
+}
+
+#link4 {
+    position: absolute;
+    top: 8em;
+    font-size: 3em;
+}
+
+#link4:hover {
+    color: purple;
+}
