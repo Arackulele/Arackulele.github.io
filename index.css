@@ -5,8 +5,9 @@ body {
 
 button {
     padding: 2em;
-    background-color: black;
+    background-color: #1B1339;
     border: none;
+    border-radius: 5em;
 }
 
 a {
@@ -17,11 +18,14 @@ a {
 }
 
 nav {
-    margin: 1em;
+    margin: 1em; 
+    margin-left: 3.8em;
+    background: #1B1339;
+    border-radius: 2em;
 }
 
 .active {
-    color: purple;
+    color: #3718AF;
 }
 
 img {
@@ -32,18 +36,18 @@ img {
 }
 
 #h1 {
-    color:  #521229;
+    color:  #392E61;
     font-size: 4em;
     position: absolute;
     top: 0em;
-    left: 1em;
+    left: 1.5em;
 }
 
 #p1 {
-    color: #521229;
+    color: #392E61;
     font-size: 4em;
     position: absolute;
-    top: 2em;
+    top: 3em;
     left: 9em;
     font-weight: bold;
 }

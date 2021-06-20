@@ -1,11 +1,13 @@
 body {
     background-color: black;
+    position: absolute;
 }
 
 button {
     padding: 2em;
-    background-color: black;
+    background-color: #1B1339;
     border: none;
+    border-radius: 5em;
 }
 
 a {
@@ -16,18 +18,23 @@ a {
 }
 
 nav {
-    margin: 1em;
+    margin: 1em; 
+    margin-left: 3.8em;
+    margin-right: 3.8em;
+    background: #1B1339;
+    border-radius: 2em;
 }
 
 .active {
-    color: purple;
+    color: #3718AF;
 }
 
 #antiimage {
     position: absolute;
-    width: 13.5%;
-    height: 25%;
-    margin-left: 3.5em;
+    width:30%;
+    height: 230%;
+    margin-left: 4em;
+    border-radius: 2em;
 }
 
 .social {

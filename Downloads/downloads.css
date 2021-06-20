@@ -1,11 +1,13 @@
 body {
     background-color: black;
+    position: absolute;
 }
 
 button {
     padding: 2em;
-    background-color: black;
+    background-color: #1B1339;
     border: none;
+    border-radius: 5em;
 }
 
 a {
@@ -16,11 +18,14 @@ a {
 }
 
 nav {
-    margin: 1em;
+    margin: 1em; 
+    margin-left: 3.8em;
+    background: #1B1339;
+    border-radius: 2em;
 }
 
 .active {
-    color: purple;
+    color: #3718AF;
 }
 
 .downloads {
