@@ -13,39 +13,41 @@ button {
 a {
     color: white;
     text-decoration: none;
-    font-size: 2.5em;
+    font-size: 3em;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+a:hover {
+    color: purple;
+}
+
 nav {
-    margin: 1em; 
-    margin-left: 3.8em;
+    margin: 2em; 
+    margin-left: 3.5em;
     background: #1B1339;
     border-radius: 2em;
+    padding: 2em;
 }
 
 .active {
     color: #3718AF;
 }
 
-p1{
+.heading {
     position: absolute;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 3em;
-    top:  5em;
-    left: 5em;
+    font-size: 2em;
+    left: 2em;
+    right: -10em;
 }
 
-.projects {
-    display: flex;
-    flex-direction: column;
+.describtion {
+    position: absolute;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 5em;
-    margin-top: 4em;
-}
-
-.link:hover {
-    color: purple;
+    font-size: 2em;
+    left: 2em;
+    top: 8.5em;
+    right: -20em;
 }

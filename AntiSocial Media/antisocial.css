@@ -30,7 +30,6 @@ nav {
 }
 
 #antiimage {
-    position: absolute;
     width:30%;
     height: 230%;
     margin-left: 4em;
@@ -72,4 +71,10 @@ nav {
 
 #link3:hover {
     color: purple;
+}
+
+#twitch {
+    position: absolute;
+    left: 43em;
+    top: 8em;
 }
